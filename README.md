@@ -1,4 +1,6 @@
-### Hi there 👋
+### Who is this?
+⚡ Someone with a very wide spectrum of interest from building websites to breaking them down to check for vulnerbilities, machine learning, competitive coding, game development and even singing, travelling, writing! I am an explorer from inside out.
+
 
 <!--
 **Tvashta/Tvashta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
