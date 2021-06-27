@@ -1,6 +1,5 @@
 ### Who is this?
-⚡ Someone with a very wide spectrum of interest from building websites to breaking them down to check for vulnerbilities, machine learning, competitive coding, game development and even singing, travelling, writing! I am an explorer from inside out.
-
+⚡ Someone with a very wide spectrum of interest who loves exploring various fields of CS ranging from web and app development to AI and Competitive Programming. I love getting lost in the world of books. If you meet me, you will probably find me lost in thoughts or talking or coding or doing stuff that wouldn't get me paid! ✨
 
 <!--
 **Tvashta/Tvashta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
