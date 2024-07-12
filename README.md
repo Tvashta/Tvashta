@@ -1,7 +1,7 @@
 ### Who is this?
-⚡ Someone with a very wide spectrum of interest who loves exploring various fields of CS, while predominantly working in Web and App Dev. If you meet me, you will probably find me lost in thoughts or engrossed in a mystery thriller or talking or coding or doing stuff that wouldn't get me paid! ✨
+⚡ Someone with a very wide spectrum of interest who loves exploring various fields of CS. If you meet me, you will probably find me lost in thoughts, in books, in music or just lost in general or doing stuff that wouldn't get me paid! ✨
 
-Don't forget to checkout https://adithi-narayan.netlify.app/ 💻💫
+Portfolio: https://adithi-narayan.netlify.app/ 💻💫
 
 <!--
 **Tvashta/Tvashta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
